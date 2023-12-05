@@ -1,4 +1,4 @@
-![Srabony's GitHub stats](https://github-readme-stats.vercel.app/api?username=srabon08&theme=light&show_icons=true)
+![Srabony's GitHub stats](https://github-readme-stats.vercel.app/api?username=srabon08&theme=dark&show_icons=true)
 
 
 <!--
